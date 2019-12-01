@@ -1,2 +1,2 @@
-# resource
+# RESOURCE
 资源
